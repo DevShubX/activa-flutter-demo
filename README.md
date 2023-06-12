@@ -5,9 +5,14 @@ This app show a demo for online two-wheeler services
 
 ## Screenshots
 
+
+<img src="https://github.com/DevShubX/activa-flutter-demo/blob/main/Screenshots/screenshot-1.png" width="300"/>
+<img src="https://github.com/DevShubX/activa-flutter-demo/blob/main/Screenshots/screenshot-2.png" width="300"/>
+
+<!-- 
 ![alt text](https://github.com/DevShubX/activa-flutter-demo/blob/main/Screenshots/screenshot-1.png)
 ![alt text](https://github.com/DevShubX/activa-flutter-demo/blob/main/Screenshots/screenshot-2.png)
-
+ -->
 
 
 ## Getting Started
